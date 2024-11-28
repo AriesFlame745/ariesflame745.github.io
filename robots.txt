@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://ariesflame745.github.io/ariesflame745_github_io_zp530_11.txt
+Sitemap: https://ariesflame745.github.io/ariesflame745_github_io_zp530_16.txt
+Sitemap: https://ariesflame745.github.io/ariesflame745_github_io_zp530_20.txt
+Sitemap: https://ariesflame745.github.io/ariesflame745_github_io_zp530_25.txt
+Sitemap: https://ariesflame745.github.io/ariesflame745_github_io_zp530_7.txt
